@@ -2046,13 +2046,6 @@ ember-cli-htmlbars@^1.0.0, ember-cli-htmlbars@^1.0.1:
     json-stable-stringify "^1.0.0"
     strip-bom "^2.0.0"
 
-ember-cli-ic-ajax@0.2.1:
-  version "0.2.1"
-  resolved "https://registry.yarnpkg.com/ember-cli-ic-ajax/-/ember-cli-ic-ajax-0.2.1.tgz#0dd9a2c9f9d16f4da98ade15fef427ee63cf8710"
-  integrity sha1-DdmiyfnRb02pit4V/vQn7mPPhxA=
-  dependencies:
-    ic-ajax "~2.0.1"
-
 ember-cli-inject-live-reload@1.4.0:
   version "1.4.0"
   resolved "https://registry.yarnpkg.com/ember-cli-inject-live-reload/-/ember-cli-inject-live-reload-1.4.0.tgz#1dac5b4a2fecc51cea3c17bce9089596115a7fbd"
@@ -3478,11 +3471,6 @@ http-signature@~1.2.0:
     assert-plus "^1.0.0"
     jsprim "^1.2.2"
     sshpk "^1.7.0"
-
-ic-ajax@~2.0.1:
-  version "2.0.2"
-  resolved "https://registry.yarnpkg.com/ic-ajax/-/ic-ajax-2.0.2.tgz#50c8ab1c494320fac66830ce1ee3990ab827f596"
-  integrity sha1-UMirHElDIPrGaDDOHuOZCrgn9ZY=
 
 iconv-lite@0.4.13:
   version "0.4.13"
@@ -6578,9 +6566,9 @@ tmp@0.0.28:
     os-tmpdir "~1.0.1"
 
 tmpl@1.0.x:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/tmpl/-/tmpl-1.0.4.tgz#23640dd7b42d00433911140820e5cf440e521dd1"
-  integrity sha1-I2QN17QtAEM5ERQIIOXPRA5SHdE=
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/tmpl/-/tmpl-1.0.5.tgz#8683e0b902bb9c20c4f726e3c0b69f36518c07cc"
+  integrity sha512-3f0uOEAQwIqGuWW2MVzYg8fV/QNnc/IpuJNG837rLuczAaLVHslWHZQj4IGiEl5Hs3kkbhwL9Ab7Hrsmuj+Smw==
 
 to-array@0.1.3:
   version "0.1.3"
