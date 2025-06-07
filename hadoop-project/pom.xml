@@ -69,7 +69,7 @@
     <jersey2.version>2.46</jersey2.version>
 
     <!-- jackson versions -->
-    <jackson2.version>2.12.7</jackson2.version>
+    <jackson2.version>2.13.0</jackson2.version>
     <jackson2.databind.version>2.12.7.1</jackson2.databind.version>
 
     <!-- httpcomponents versions -->
@@ -86,7 +86,7 @@
 
     <!-- Protobuf version for backward compatibility -->
     <!-- This is used in hadoop-common for compilation only -->
-    <protobuf.version>2.5.0</protobuf.version>
+    <protobuf.version>3.25.5</protobuf.version>
     <!-- Protobuf scope in hadoop common -->
     <!-- set to "provided" so protobuf2 is no longer exported as a dependency  -->
     <common.protobuf2.scope>provided</common.protobuf2.scope>
@@ -135,7 +135,7 @@
     <cache.api.version>1.1.1</cache.api.version>
     <caffeine.version>2.9.3</caffeine.version>
     <hikari.version>4.0.3</hikari.version>
-    <derby.version>10.14.2.0</derby.version>
+    <derby.version>10.17.1.0</derby.version>
     <mssql.version>6.2.1.jre7</mssql.version>
     <okhttp3.version>4.11.0</okhttp3.version>
     <kotlin-stdlib.version>1.6.20</kotlin-stdlib.version>
